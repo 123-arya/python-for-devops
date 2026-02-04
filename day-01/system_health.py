@@ -1,4 +1,3 @@
+## Output Screenshot
 
-## python
-veeveeeeeev
-  
+![System Health Output](cpu_thresold.png)
